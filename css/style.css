@@ -308,6 +308,7 @@ div.services-card.six {
     background-repeat: no-repeat;
     background-position: center;
     height: 300px;
+    border: 1px solid rgba(209, 35, 0, 0.984);
 }
 
 
