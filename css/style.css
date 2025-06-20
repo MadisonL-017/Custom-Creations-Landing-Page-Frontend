@@ -175,7 +175,7 @@ h1 {
 }
 
 section#hero {
-    background-image: url(images\black-lamborghini.jpg);
+    background-image: url(../images/black-lamborghini.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -209,7 +209,7 @@ section#hero {
 
 section#services {
     background-color: black;
-    background-image: url(images/checkered-racing-stripes.jpg);
+    background-image: url(../images/checkered-racing-stripes.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -263,7 +263,7 @@ section#services {
 }
 
 div.services-card.one {
-    background-image: url(images/welding.jpg);
+    background-image: url(../images/welding.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -271,7 +271,7 @@ div.services-card.one {
 }
 
 div.services-card.two {
-    background-image: url(images/car-paint.jpg);
+    background-image: url(../images/car-paint.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -279,7 +279,7 @@ div.services-card.two {
 }
 
 div.services-card.three {
-    background-image: url(images/sanding-car.jpg);
+    background-image: url(../images/sanding-car.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -287,7 +287,7 @@ div.services-card.three {
 }
 
 div.services-card.four {
-    background-image: url(images/car-interior.jpg);
+    background-image: url(../images/car-interior.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -295,7 +295,7 @@ div.services-card.four {
 }
 
 div.services-card.five {
-    background-image: url(images/wheels.jpg);
+    background-image: url(../images/wheels.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -303,7 +303,7 @@ div.services-card.five {
 }
 
 div.services-card.six {
-    background-image: url(images/detailing.jpg);
+    background-image: url(../images/detailing.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
