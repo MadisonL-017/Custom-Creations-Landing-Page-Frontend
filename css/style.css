@@ -515,9 +515,9 @@ section#about {
 }
 
 .image-container {
-    flex: 0 0 auto;
-    width: 400px;
-    height: 400px;
+    flex: 1 1 auto;
+    max-width: 400px;
+    max-height: 400px;
     justify-content: right;
     align-items: center;
     border-radius: 10% 25% 10% 25%;
